@@ -22,7 +22,7 @@
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I solve problems on Leetcode and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/the-nguyen-84687824b/)
 
@@ -46,6 +46,8 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=deedeeNg&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=deedeeNg&theme=dark&background=000000)]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deedeeNg&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deedeeNg&layout=compact&theme=vision-friendly-dark)
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/deedeeNg?theme=light,unicorn)
