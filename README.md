@@ -1,9 +1,6 @@
 
   <div id="header" align="center">
-    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  </div>
-  <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+    <img src="https://media.tenor.com/kaRCm9ELxKgAAAAC/menhera-chan-chibi.gif"/>
   </div>
   <div align="center">
     <h1>
@@ -12,7 +9,7 @@
     </h1>
   </div>
   <div align="center">
-    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+    <img src="https://media.tenor.com/1YkVNz9cTmIAAAAC/anime-chika.gif" width="600" height="300"/>
   </div
     
 ---
@@ -50,4 +47,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deedeeNg&layout=compact&theme=vision-friendly-dark)
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/deedeeNg?theme=light,unicorn)
+![Leetcode Stats](https://leetcard.jacoblin.cool/deedeeNg?ext=heatmap)
