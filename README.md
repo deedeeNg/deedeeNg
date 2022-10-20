@@ -4,7 +4,12 @@
   </div>
   <div align="center">
     <h1>
-      Hey there
+      <img src="https://media.tenor.com/vjmRKtrLcMoAAAAC/chika-fujiwara.gif" width="50px"/>
+      <img src="https://media.tenor.com/vjmRKtrLcMoAAAAC/chika-fujiwara.gif" width="50px"/>
+      <img src="https://media.tenor.com/vjmRKtrLcMoAAAAC/chika-fujiwara.gif" width="50px"/>
+       Hey there
+      <img src="https://media.tenor.com/vjmRKtrLcMoAAAAC/chika-fujiwara.gif" width="50px"/>
+      <img src="https://media.tenor.com/vjmRKtrLcMoAAAAC/chika-fujiwara.gif" width="50px"/>
       <img src="https://media.tenor.com/vjmRKtrLcMoAAAAC/chika-fujiwara.gif" width="50px"/>
     </h1>
   </div>
