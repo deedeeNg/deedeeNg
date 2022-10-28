@@ -18,7 +18,7 @@
 ---
 
   ### :man_technologist: About Me :
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building Android and IOS applications and testing.
 
 - :seedling: Exploring Technical Content Writing.
 
