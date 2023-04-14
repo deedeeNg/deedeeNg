@@ -15,7 +15,9 @@
   </div>
   <div align="center">
     <img src="https://media.tenor.com/1YkVNz9cTmIAAAAC/anime-chika.gif" width="600" height="300"/>
-    <img src="https://preview.redd.it/ppvhzhbl1ota1.gif" width="600" height="300"/>
+  </div
+  <div align="center">
+    <img src="[https://media.tenor.com/1YkVNz9cTmIAAAAC/anime-chika.gif](https://64.media.tumblr.com/4404aee40c8de40c1b3a77478cee13b6/cb2c43ad6abccd34-1a/s540x810/3a273727d41b74068a364e822c4c05f123418450.gifv)" width="600" height="300"/>
   </div
     
 ---
